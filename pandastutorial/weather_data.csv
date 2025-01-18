@@ -1,0 +1,7 @@
+Date,City,Temperature,Humidity,WindSpeed,Precipitation
+2023-01-01,New York,5,80,10,0
+2023-01-01,Los Angeles,15,60,5,0
+2023-01-02,Chicago,-3,85,12,1
+2023-01-02,Houston,10,75,8,0
+2023-01-03,Phoenix,18,40,7,0
+2023-01-03,Seattle,8,90,6,0
